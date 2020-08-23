@@ -11,7 +11,7 @@ By analyzing trends in these data points, PyBer will be better equiped to make g
 
 ## Results
 Urban cities account for more than two thirds of rides.
-![Rides by City Type](Resources/Rides by city type.png)
+![Rides](PyBer_Analysis/Resources/Rides by city type.png)
 
 
 ## Summary
