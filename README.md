@@ -6,8 +6,8 @@ The data utilized in this study is 2019 PyBer ride data that includes the follow
 * Date 
 * City 
 * Fare 
-* City type 
-n\By analyzing trends in these data points, PyBer will be better equiped to make good decisions about its future. With data insights in hand, the firm will be able to allocate capital to the areas that are most likely to produce a good return. The firm can look for trends in revenue growth, or idendify somewhere that they are loosing market share by lookng at the ride data over time, as in the line graph created. 
+* City type\ 
+By analyzing trends in these data points, PyBer will be better equiped to make good decisions about its future. With data insights in hand, the firm will be able to allocate capital to the areas that are most likely to produce a good return. The firm can look for trends in revenue growth, or idendify somewhere that they are loosing market share by lookng at the ride data over time, as in the line graph created. 
 
 ## Results
 Urban cities account for more than two thirds of rides. \
