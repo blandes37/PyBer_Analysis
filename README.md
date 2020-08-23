@@ -11,7 +11,11 @@ By analyzing trends in these data points, PyBer will be better equiped to make g
 
 ## Results
 Urban cities account for more than two thirds of rides. \
-![Rides](https://github.com/blandes37/PyBer_Analysis/blob/master/Resources/Rides%20by%20city%20type.png?raw=true)
+![Rides by City Type](https://github.com/blandes37/PyBer_Analysis/blob/master/Resources/Rides%20by%20city%20type.png?raw=true) \
+\
+Urban cities accounted for 62.7 percent of fare revenue in 2019. \
+![Fares by City Type]\(https://github.com/blandes37/PyBer_Analysis/blob/master/Resources/Fares%20by%20City%20Type.png?raw=true) \
+
 
 
 ## Summary
