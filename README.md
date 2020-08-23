@@ -3,15 +3,18 @@ The purpose of this analysis is to examine the revenues produced at PyBer across
 
 ## Overview
 The data utilized in this study is 2019 PyBer ride data that includes the following data points: \
-*date \
-*city \
-*fare \
-*city type \
+* date \
+* city \
+* fare \
+* city type \
 By analyzing trends in these data points, PyBer will be better equiped to make good decisions about its future. With data insights in hand, the firm will be able to allocate capital to the areas that are most likely to produce a good return. The firm can look for trends in revenue growth, or idendify somewhere that they are loosing market share by lookng at the ride data over time, as in the line graph created. 
 
 ## Results
 Urban cities account for more than two thirds of rides. \
-![Rides](https://github.com/blandes37/PyBer_Analysis/blob/master/Resources/Rides%20by%20city%20type.png?raw=true)
+![Rides by City Type](https://github.com/blandes37/PyBer_Analysis/blob/master/Resources/Rides%20by%20city%20type.png?raw=true) \
+\
+Urban cities accounted for 62.7 percent of fare revenue in 2019. \
+![Fares by City Type](https://github.com/blandes37/PyBer_Analysis/blob/master/Resources/Fares%20by%20City%20Type.png?raw=true) 
 
 
 ## Summary
