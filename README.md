@@ -9,8 +9,10 @@ The data utilized in this study is 2019 PyBer ride data that includes the follow
 *city type \
 By analyzing trends in these data points, PyBer will be better equiped to make good decisions about its future. With data insights in hand, the firm will be able to allocate capital to the areas that are most likely to produce a good return. The firm can look for trends in revenue growth, or idendify somewhere that they are loosing market share by lookng at the ride data over time, as in the line graph created. 
 
-
 ## Results
-The analysis produced conclusive results showing that urban cities are the profit driver for Pyber and rural cities produce the least revenue. 
+Urban cities account for more than two thirds of rides.
+![Rides by City Type](Resources/Rides by city type.png)
+
 
 ## Summary
+The analysis produced conclusive results showing that urban cities are the profit driver for Pyber and rural cities produce the least revenue. Urban cities have the most drivers and the most rides and produce the most fare revenue. 
